@@ -1,0 +1,4 @@
+<<<<<<< HEAD
+=======
+jupeter A is good and cool
+>>>>>>> 732ea2af60bae9634ca57aaab3fa4220f9cba56f
